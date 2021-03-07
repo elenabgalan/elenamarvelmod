@@ -1,1 +1,2 @@
-# elenatresipunt
+# elenamarvelmod
+This is a moodle module called Marvel in which it can be seen a list of Marvel content such as charcaters, comics, series, stories...
